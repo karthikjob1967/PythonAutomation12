@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$USER_HOME$/ProjectAutomation/DataDrivenTesting/.idea/DataDrivenTesting.iml" filepath="$USER_HOME$/ProjectAutomation/DataDrivenTesting/.idea/DataDrivenTesting.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/PythonAutomation12.iml" filepath="$PROJECT_DIR$/.idea/PythonAutomation12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../demopygit19/.idea/demopygit19.iml" filepath="$PROJECT_DIR$/../demopygit19/.idea/demopygit19.iml" />
     </modules>
   </component>
 </project>
