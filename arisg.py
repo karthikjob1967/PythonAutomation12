@@ -1,0 +1,3 @@
+print("Arisg")
+
+print("agX")
