@@ -1,7 +1,5 @@
 This is first file
 
-Second filegit
+Second file
 
 third file
-
-fourth file
